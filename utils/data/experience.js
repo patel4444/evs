@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: "IoT Intern",
     company: "IoT Solution, Rajkot",
-    duration: "(Jan 2022 - Dec 2023)"
+    duration: "(Jan 2022 - Dec 2023 )"
   },
   {
     id: 2,
